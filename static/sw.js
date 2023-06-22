@@ -1,4 +1,4 @@
-var cacheName = 'TIWcog';
+var cacheName = 'Stingray';
 var filesToCache = [
   '/js/sw.js'
 ];
